@@ -1,18 +1,18 @@
 # Sinatra-Boilerplate
 This is a boilerplate for creating web apps with [sinatra](http://sinatrarb.com). This boilerplate is meant to be 
-cloned with the [boilerplate](http://ajaymt.github.com/boilerplate) tool.
+cloned with the [bp](http://github.com/code-boilerplates/bp) tool.
 
 ## Cloning
-Clone it with [boilerplate](http://ajaymt.github.com/boilerplate).
+Clone it with [bp](http://github.com/code-boilerplates/bp).
 
 ```sh
-$ boilerplate sinatra <project-name>
+$ bp sinatra <project-name>
 ```
 
 Or just `git-clone` it.
 
 ```sh
-$ git clone http://github.com/AjayMT/sinatra-boilerplate.git
+$ git clone http://github.com/code-boilerplates/sinatra-boilerplate.git
 ```
 
 ## Running
